@@ -34,6 +34,14 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Testing and Pratise Projects
-### Css
+### Css Projects
+
+### JS Projects
+
+### Custom Plugins
+[Divi Banner] [String Replace]
 
 
+
+[Divi Banner]:  https://www.flaticon.com/
+[String Replace]: https://www.flaticon.com/
