@@ -33,8 +33,16 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools:
 
-<img src="img/svg/html5.svg" alt="Html"/>
 <img src="img/html-5.png" alt="Html"/>
+<img src="img/css.png" alt="Html"/>
+<img src="img/tailwind.svg" alt="Html"/>
+<img src="img/bootstrap.png" alt="Html"/>
+<img src="img/java-script.png" alt="Html"/>
+<img src="img/logo-jquery.png" alt="Html"/>
+<img src="img/react.png" alt="Html"/>
+<img src="img/php.png" alt="Html"/>
+<img src="img/github-sign.png" alt="Html"/>
+<img src="img/wordpress-logo.png" alt="Html"/>
 
 <br />
 <br />
