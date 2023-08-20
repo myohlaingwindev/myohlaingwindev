@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="img/html-5.png" alt="Html"/>
 <img src="img/css.png" alt="Html"/>
-<img src="img/tailwind.svg" alt="Html"/>
+<img src="img/tailwind.png" alt="Html"/>
 <img src="img/bootstrap.png" alt="Html"/>
 <img src="img/java-script.png" alt="Html"/>
 <img src="img/logo-jquery.png" alt="Html"/>
