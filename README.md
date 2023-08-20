@@ -8,36 +8,32 @@ myohlaingwindev/myohlaingwindev is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3>Social Connect With Me</h3>
-<a href="https://www.facebook.com/myo.h.win.96930/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hnin.thu.zar.725" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXRGqJmjsfqfqRfzXglQndfwvbmdvzPZhrbmsBpbshBsnnSwnPwdKbkwNqXKzKFXVkrhP" rel="nofollow"><img align="center" src="https://github.com/hninthuzar/hninthuzar/raw/main/gmail.png" alt="hninthuzar.itworld@gmail.com" height="27" width="30" style="max-width: 100%;"></a>
-
-
-
+### Social Connect With Me
+<a href="https://www.facebook.com/myo.h.win.96930/" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hnin.thu.zar.725" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXRGqJmjsfqfqRfzXglQndfwvbmdvzPZhrbmsBpbshBsnnSwnPwdKbkwNqXKzKFXVkrhP" rel="nofollow"><img  src="https://github.com/hninthuzar/hninthuzar/raw/main/gmail.png" alt="hninthuzar.itworld@gmail.com" height="27" width="30" style="max-width: 100%;"></a>
 
 ### Languages and Tools:
 
-<h4>Html, Css, Javascript, jQuery, Bootstrap, Tailwind, React, PHP,Wordpress, Drupal, Joomla,
-FTP, Git, Cpanel</h4>
+#### Html, Css, Javascript, jQuery, Bootstrap, Tailwind, React, PHP,Wordpress, Drupal, Joomla,FTP, Git, Cpanel
 
 ### Wordpress (over 3 years)
-# Themes 
+### Themes 
 - Divi, Salient, Porto
 - Customize themes, Child themes
 
-# Builder
+### Builder
 - WP_barkerly, Elementor
 
-# Plugins
+### Plugins
 - Many plugins
 - Customize plugins
 
-# Experience Websites 
+### Experience Websites 
 - over 50
 
 
 
-<h2>Testing and Pratise Projects</h2>
-<h3>Css</h3>
+## Testing and Pratise Projects
+### Css
 
 
