@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 ### JS Projects
 
 ### Custom Plugins
-[Divi Banner] [String Replace]
+[Divi Banner] | [String Replace]
 
 
 
