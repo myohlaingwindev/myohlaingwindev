@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
 ### Languages and Tools:
 
 <img src="img/svg/html5.svg" alt="Html"/>
+<img src="img/html-5.png" alt="Html"/>
 
 <br />
 <br />
