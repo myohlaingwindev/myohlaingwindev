@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Html, Css, Javascript, jQuery, Bootstrap, Tailwind, React, PHP,Wordpress, Drupal, Joomla,FTP, Git, Cpanel
 
-### Wordpress (over 3 years)
+## Wordpress (over 3 years)
 ### Themes 
 - Divi, Salient, Porto
 - Customize themes, Child themes
