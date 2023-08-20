@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools:
 
-<strong>Html, Css, Javascript, jQuery, Bootstrap, Tailwind, React, PHP,Wordpress, Drupal, Joomla,
-FTP, Git, Cpanel</strong>
+<h4>Html, Css, Javascript, jQuery, Bootstrap, Tailwind, React, PHP,Wordpress, Drupal, Joomla,
+FTP, Git, Cpanel</h4>
 
 ### Wordpress (over 3 years)
 # Themes 
